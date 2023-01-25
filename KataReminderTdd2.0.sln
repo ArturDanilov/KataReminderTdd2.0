@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataReminderTdd2.0", "KataReminderTdd2.0\KataReminderTdd2.0.csproj", "{574D24C9-FFCA-4CF1-8AE4-B4091DF7BE6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataReminderTdd2.0Tests", "KataReminderTdd2.0Tests\KataReminderTdd2.0Tests.csproj", "{E67CB22D-FF7C-4F83-B941-8B7F8AAE8D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{574D24C9-FFCA-4CF1-8AE4-B4091DF7BE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574D24C9-FFCA-4CF1-8AE4-B4091DF7BE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574D24C9-FFCA-4CF1-8AE4-B4091DF7BE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574D24C9-FFCA-4CF1-8AE4-B4091DF7BE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67CB22D-FF7C-4F83-B941-8B7F8AAE8D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67CB22D-FF7C-4F83-B941-8B7F8AAE8D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67CB22D-FF7C-4F83-B941-8B7F8AAE8D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67CB22D-FF7C-4F83-B941-8B7F8AAE8D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E53DA9-C87D-4A98-B281-58F8D2B880AA}
+	EndGlobalSection
+EndGlobal
